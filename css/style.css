@@ -5,12 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
 body {
   font-family: "Roboto Mono", monospace;
   font-weight: 400;
@@ -19,7 +14,7 @@ body {
   color: #8f989f;
   height: 100%;
   position: relative;
-  background: #F4F7F7;
+  background: #ffffff;
 }
 
 #page {
@@ -167,14 +162,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 480px) {
   #fh5co-header #navbar li.active a {
-    color: #3EC483;
+    color: #000000;
   }
 }
 #fh5co-header #navbar li.active a span:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
-  background-color: #3EC483;
+  background-color: #000000;
 }
 @media screen and (max-width: 480px) {
   #fh5co-header #navbar li.active a span:before {
@@ -189,13 +184,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 992px) and (max-width: 480px) {
   #fh5co-header #navbar li.active a {
-    color: #3EC483;
+    color: #000000;
   }
 }
 @media screen and (max-width: 992px) {
   #fh5co-header #navbar li.active a span {
     display: inline-block;
-    color: #3EC483;
+    color: #000000;
   }
   #fh5co-header #navbar li.active a span:before {
     bottom: 0;
@@ -216,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 30px;
 }
 #fh5co-header #navbar li.call-to-action a:hover {
-  background-color: #3EC483;
+  background-color: #000000;
   color: #fff;
 }
 #fh5co-header #navbar li.call-to-action a span:before {
