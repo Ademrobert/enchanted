@@ -529,7 +529,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .fh5co-portfolio .portfolio-entry {
   width: 100%;
-  float: left;
+  align-items: center;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1409,3 +1409,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.discord-wiget{
+  width: 150%;
+  margin-left: 15em;
+}
